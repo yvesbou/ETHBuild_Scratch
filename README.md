@@ -1,3 +1,3 @@
-# Scratches build with BuildETH
+# Scratches build with ETHBuild
 
-Check out [BuildETH](https://eth.build)
+Check out [ETHBuild](https://eth.build)
